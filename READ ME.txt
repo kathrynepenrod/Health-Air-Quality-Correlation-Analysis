@@ -1,0 +1,37 @@
+Scenario 4: New York City Department of Health and Mental Hygiene
+Improving Health in Communities
+Organizational Mission Statement
+
+The New York City Department of Health and Mental Hygiene is committed to protecting and promoting
+the health of all New Yorkers through evidence-based programs, equitable policies, and community-driven action.
+
+Context
+
+New York City, home to over 8 million residents, faces a range of complex public health challenges
+shaped by its dense population, socioeconomic disparities, and environmental conditions. In recent
+years, public health officials have grown increasingly concerned about the intersection of environmental
+quality—specifically air pollution—and chronic health outcomes such as asthma, cardiovascular disease,
+and respiratory illnesses.
+
+To strengthen its public health initiatives, the NYC Department of Health and Mental Hygiene is
+launching a citywide initiative to integrate environmental data with health records and demographic
+information. At the heart of this initiative is a robust analysis of air quality metrics—such as particulate
+matter (PM2.5), nitrogen dioxide levels, and ozone concentrations—captured through sensors placed
+across boroughs, especially in vulnerable and underserved communities.
+
+The city also has access to rich data sets, including hospital admission records, asthma-related
+emergency room visits, neighborhood-level demographic profiles, and historical pollution trends. The
+goal is to use this data to identify geographic hotspots where environmental factors are
+disproportionately impacting public health, evaluate the effectiveness of current interventions (like
+green space expansion and emission controls), and inform more targeted, preventative strategies.
+
+Key questions driving the initiative include:
+    Which neighborhoods are experiencing the highest environmental health burdens?
+    How do air quality patterns correlate with disease prevalence or healthcare utilization?
+    What seasonal or policy-driven variables influence spikes in health incidents?
+
+By answering these questions, the city aims not only to reduce environmental health disparities but also
+to create predictive models that support real-time public health alerts, guide infrastructure
+improvements, and promote long-term community resilience.
+
+Data Set: Air_Quality.csv
