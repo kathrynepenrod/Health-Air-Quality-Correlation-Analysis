@@ -1,7 +1,7 @@
-Academic Project: Improving Health in Communities  
-Course/Context: DAT-510: Foundations of Data 2026  
-Role: Student Developer / Data Analyst  
-Timeline: Summer Semester (10 weeks)  
+**Academic Project: Improving Health in Communities ** 
+*Course/Context: DAT-510: Foundations of Data 2026  *
+*Role: Student Developer / Data Analyst * 
+*Timeline: Summer Semester (10 weeks)  *
 Project Overview  
 For this project, I followed the complete data lifecycle, from initial cleaning to final analysis and basic visualization, to address  stakeholder questions, delivering actionable insights.  
 Key Responsibilities:  
